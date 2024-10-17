@@ -1,0 +1,15 @@
+Step to push the code from CLI to Git.
+
+Add the code/files.
+
+Apply these steps
+git add .
+git commit -m "commit code to github repo"
+git push -u origin main
+
+
+Step to Pull the code from Git to CLI.
+
+Update the file and apply the commit changs.
+
+and from CLI run : git pull origin
